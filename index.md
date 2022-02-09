@@ -1,29 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Antz
 
-You can use the [editor on GitHub](https://github.com/alexicity/antz/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This site is for ant lovers in New Zealand. It's still under construction.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How to grow a colony
 
-### Markdown
+Blabla
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Bla1
+- Bla2
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1. Bla1
+2. Bla2
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Pictures of ants](https://google.com/images?q=ants) and ![Ants](https://images.immediate.co.uk/production/volatile/sites/4/2021/05/GettyImages-186823289-6e83876.jpg?webp=true&quality=90&crop=5px%2C62px%2C930px%2C400px&resize=930%2C395)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
